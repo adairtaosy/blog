@@ -1,0 +1,12 @@
+{
+  "name": "blog-taoshiyu",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "body-parser": "1.15.0",
+    "ejs": "2.4.1",
+    "express": "4.13.4",
+    "express-favicon": "^1.0.1",
+    "method-override": "2.3.5"
+  }
+}
